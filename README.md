@@ -29,8 +29,7 @@ A fun idle/clicker game where you manage cats that collect coins and need care. 
 
 ## File Structure
 
-- `CatCollector.html` - Compressed version for js13k submission
-- `CatCollectorFull.html` - Uncompressed version with readable code and comments
+- `CashCats13K.html` - Compressed version for js13k submission
 - `README.md` - This documentation file
 
 ## Technical Details
@@ -67,7 +66,7 @@ A fun idle/clicker game where you manage cats that collect coins and need care. 
 
 ### Desktop
 - **Click cats**: Pet them to increase love
-- **Drag fish**: Click and drag fish to feed hungry cats
+- **Drag fish**: Click and drag fish to give full love to cats
 - **Click coins**: Collect coins manually
 - **Upgrade buttons**: Click to upgrade cat stats
 
@@ -88,7 +87,7 @@ A fun idle/clicker game where you manage cats that collect coins and need care. 
 
 ### Resource Management
 - **Gold**: Earned by cats returning coins to base
-- **Fish**: Drag to feed hungry cats
+- **Fish**: Drag to give full 💖 to cats
 - **Water**: Cats automatically go to water source when thirsty
 - **Love**: Increased by petting, affects cat speed
 
