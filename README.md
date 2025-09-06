@@ -8,7 +8,7 @@ A fun idle/clicker game where you manage cats that collect coins and need care. 
 - **13 Cats**: Each with unique names and behaviors
 - **Coin Collection**: Cats automatically collect coins scattered around the game area
 - **Cat Care System**: 
-  - Feed cats with fish 🐟 to satisfy hunger
+  - Feed cats with fish 🐟 to fully satisfy love 💖
   - Pet cats 💖 to increase love and speed
   - Cats need water 💧 when thirsty
 - **Upgrade System**: Improve cat speed and carrying capacity
@@ -29,7 +29,7 @@ A fun idle/clicker game where you manage cats that collect coins and need care. 
 
 ## File Structure
 
-- `CashCats13K.html` - Compressed version for js13k submission
+- `CashCats13K.html` - Last Version for js13k submission
 - `README.md` - This documentation file
 
 ## Technical Details
