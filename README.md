@@ -1,4 +1,4 @@
-# Black Cats - Cat Collector Game
+# CashCats13K - Cat Collector Game
 
 A fun idle/clicker game where you manage cats that collect coins and need care. Built for the js13k game jam.
 
